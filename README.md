@@ -1,2 +1,2 @@
-# latam-fake-news-transformer-models
-Data science project to predict fake news from Latin America through state-of-the-art transformer models.
+# LATAM-FAKE-NEWS-TRANSFORMER-MODELS
+This repository contains the code and data for a data science project that aims to predict instances of fake news in Latin America using state-of-the-art transformer models. The project uses a combination of natural language processing techniques and machine learning to classify social media posts as real or fake. The goal of the project is to help combat the spread of disinformation and promote an informed populace. The repository includes the code for data preprocessing, model training, and evaluation, as well as the dataset used for the project. It is implemented in python, using popular libraries such as pandas, numpy, and transformers from Hugging Face.
